@@ -5,3 +5,6 @@ print("2nd commit")
 class Icon:
     def __init__(self) -> None:
         pass
+
+if __name__ == "__main__":
+    icon = Icon()
